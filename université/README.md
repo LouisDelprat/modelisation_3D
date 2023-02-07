@@ -6,3 +6,5 @@ Ici vous pourrait retrouver le cdi et 4 salle d'otonomie qui se trouver dans mon
 
 ## Quelque aperçut
 voici quelque aperçut des lieux
+
+![](
