@@ -7,7 +7,7 @@ Ici vous pourrait retrouver le cdi et 4 salle d'otonomie qui se trouvait dans mo
 ## Quelque aperçut
 voici quelque aperçut des lieux
 
-
+ 
 > si dessous vous pourrais trouver un screen de la modelisation 3D de mon cdi
 
 ![](https://github.com/LouisDelprat/modelisation_3D/blob/main/universit%C3%A9/CDI_vue%20d_ensemble.PNG)
