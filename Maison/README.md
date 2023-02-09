@@ -3,6 +3,7 @@
 ## descriptif 
 SketchUp Pro est l’outil de dessin le plus efficace et le plus simple qui permet de modéliser en 3D rapidement et intuitivement toutes création.
 Ici vous pourrais trouver mon projet de maison sur ce logiciel.
+Pour telecharger le model 3D [ici](https://github.com/LouisDelprat/modelisation_3D/tree/main/Maison/Fichier_sketchup)
 
 ## le projet en quelque image
 voici quelque apercu du projer
