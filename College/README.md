@@ -1,21 +1,21 @@
 # Projets de modelisation d'un college
 
 ## Descriptif
-Sweet Home 3D est un logicel de conception architecturale qui permet de créé des structure en 2D et d'avoir un aperçut en 3D.
-Ici vous pourrait retrouver le cdi et 4 salle d'otonomie qui se trouvait dans mon college que j'ai recrée a l'age de mes 13 ans.
+Sweet Home 3D est un logicel de conception architecturale qui permet de créé des structures en 2D et d'avoir un aperçu en 3D.
+Ici, vous pourrez retrouver le CDI et 4 salles de travail en autonomie qui se trouvaient dans mon college, et que j'ai recrés à l'age de mes 13 ans.
 
-## Quelque aperçut
-voici quelque aperçut des lieux
+## Quelque aperçus
+Voici quelque aperçus des lieux
 
  
-> si dessous vous pourrais trouver un screen de la modelisation 3D de mon cdi
+> Ci-dessous vous pourrez trouver un screen de la modelisation 3D de mon CDI
 
 ![](https://github.com/LouisDelprat/modelisation_3D/blob/main/College/CDI_vue_d_ensemble.PNG)
 
->si dessous vous pourrais trouver un screen d'une des 4 salle d'otonomie
+>Ci-dessous vous pourrez trouver un screen d'une des 4 salle d'autonomie
 
 ![](https://github.com/LouisDelprat/modelisation_3D/blob/main/College/salle1.PNG)
 
->si dessous vous pourrais trouver un screen d'une des 4 salle d'otonomie/ reunions
+>Ci-dessous vous pourrez trouver un screen d'une des 4 salle de travail en autonomie/reunions
 
 ![](https://github.com/LouisDelprat/modelisation_3D/blob/main/College/salle2.PNG)
